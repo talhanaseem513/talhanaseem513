@@ -1,3 +1,6 @@
+![Talha's GitHub Banner](./Header..png)
+
+</br>
 Hey there :smile: 
 
 I am an experienced full-stack engineer specializing in developing high-quality web applications.I can build everything from the front end to the back end and everything in between.
